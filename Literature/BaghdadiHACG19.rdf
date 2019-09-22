@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<rdf:RDF xmlns:dblp="https://dblp.uni-trier.de/rdf/schema-2017-04-18#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1" xmlns:bibtex="http://data.bibbase.org/ontology/#">
+<dblp:Publication rdf:about="https://dblp.uni-trier.de/rec/journals/cars/BaghdadiHACG19">
+<owl:sameAs rdf:resource="https://dblp.org/rec/journals/cars/BaghdadiHACG19" />
+</dblp:Publication>
+<dblp:Publication rdf:about="https://dblp.org/rec/journals/cars/BaghdadiHACG19">
+<owl:sameAs rdf:resource="https://doi.org/10.1007/s11548-018-1881-9" />
+<dblp:title>A computer vision technique for automated assessment of surgical performance using surgeons&apos; console-feed videos.</dblp:title>
+<dblp:bibtexType rdf:resource="http://data.bibbase.org/ontology/#Article" />
+<dblp:publicationType rdf:resource="https://dblp.uni-trier.de/rdf/schema-2017-04-18#Article" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/b/Baghdadi:Amir" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/h/Hussein:Ahmed_Aly" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/a/Ahmed:Youssef" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/c/Cavuoto:Lora_A=" />
+<dblp:authoredBy rdf:resource="https://dblp.org/pers/g/Guru:Khurshid_A=" />
+<dblp:primaryElectronicEdition rdf:resource="https://doi.org/10.1007/s11548-018-1881-9" />
+<dblp:listedOnTocPage rdf:resource="https://dblp.org/db/journals/cars/cars14" />
+<dblp:publishedInJournal>Int. J. Computer Assisted Radiology and Surgery</dblp:publishedInJournal>
+<dblp:publishedInJournalVolume>14</dblp:publishedInJournalVolume>
+<dblp:publishedInJournalVolumeIssue>4</dblp:publishedInJournalVolumeIssue>
+<dblp:pageNumbers>697-707</dblp:pageNumbers>
+<dblp:yearOfPublication>2019</dblp:yearOfPublication>
+</dblp:Publication>
+<rdf:Description rdf:about="https://dblp.org/rec/journals/cars/BaghdadiHACG19.rdf">
+<rdfs:label>provenance information for RDF data of dblp record &apos;journals/cars/BaghdadiHACG19&apos;</rdfs:label>
+<dcterms:creator rdf:resource="https://dblp.org" />
+<dcterms:isPartOf rdf:resource="https://dblp.org/rdf/dblp.rdf" />
+<dcterms:license rdf:resource="https://opendatacommons.org/licenses/by/1.0/" />
+<dcterms:modified>2019-04-04T16:00:53+0200</dcterms:modified>
+</rdf:Description>
+</rdf:RDF>
